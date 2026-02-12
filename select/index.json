@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ソウサ",
+  "base_artist": "Hilcrhyme",
+  "createdAt": "2026-02-12T16:52:30.292312Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ソウサ",
+      "artist": "Hilcrhyme",
+      "has_synced": false,
+      "path": "select/pl_01_ソウサ_Hilcrhyme.txt"
+    }
+  ]
+}
